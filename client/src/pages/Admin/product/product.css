@@ -1,0 +1,10 @@
+.all-products{
+    margin-top: 100px;;
+}
+.product-link{
+    text-decoration: none;
+    color: rgb(54, 54, 54);
+}
+.card{
+    border-radius: 15px;
+}
